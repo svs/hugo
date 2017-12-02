@@ -1,0 +1,9 @@
+[submodule "cocoa-eh-hugo-theme"]
+	path = cocoa-eh-hugo-theme
+	url = https://github.com/mtn/cocoa-eh-hugo-theme
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/eh-hugo"]
+	path = themes/eh-hugo
+	url = https://github.com/mtn/cocoa-eh-hugo-theme
