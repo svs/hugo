@@ -1,7 +1,7 @@
 ---
 title: "Tools Not Processes"
 date: 2017-12-02T16:15:52+05:30
-draft: false
+draft: true
 ---
 
 There is always a perceived conflict between process and agility. A  process makes things easier to understand and help in coordination but they have some very important drawbacks. The most harmful one is that process is often designed to serve the manager, not the doer, and so on all the way up the heirarchy. This makes adherence to process a constant struggle as the process delivers little value to the person who has to follow it.
