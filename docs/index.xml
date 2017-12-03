@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>svs</title>
+    <link>http://example.org/</link>
+    <description>Recent content on svs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Dec 2017 16:00:44 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>http://example.org/blog/hello/</link>
+      <pubDate>Sat, 02 Dec 2017 16:00:44 +0530</pubDate>
+      
+      <guid>http://example.org/blog/hello/</guid>
+      <description>This is one more in a long line of blogs set up by me. Seems I have one from every stage in my life. I had a movies and book review blog back in the early 2000s, then my Ruby focussed blog at http://svs.io, then a medium site, poorly maintained and sporadically updated and now this - something minimal with Hugo, blogging in emacs and publishing with a git push.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description> About me (svS) </description>
+    </item>
+    
+  </channel>
+</rss>
